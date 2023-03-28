@@ -1,0 +1,18 @@
+mysql  Ver 15.1 Distrib 10.1.38-MariaDB
+PHP 5.6.40
+
+Configuracion de DB
+Crear una DB de preferencia con el nombre de "diagnostico"
+la plateilla se encontrara en la carpeta SQL/diagnostico.sql que sen encontrara en el repositorio
+Cargar en el sistema de mysql, como mejor prefiera la carga del archivo llamado "diagnostico.sql"
+
+Configuracion de codigo
+en el archivo prueba/conf/config.php
+
+indicar en las variables
+1.- servername
+2.-username
+3.-password
+4.-db
+
+para el paso 4 se recomienda usar el monbre de "diagnostico" para la DB
